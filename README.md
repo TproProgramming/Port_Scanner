@@ -38,3 +38,4 @@ Port Scanning is Complete.
 ## Notes
 - This script uses TCP connections to determine open ports. It may not accurately detect UDP or stealthily closed ports.
 - For comprehensive network scanning or more advanced features, consider using specialized tools such as Nmap.
+- Input validation needs to be added.
